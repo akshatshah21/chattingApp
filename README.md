@@ -1,7 +1,7 @@
 # Chatting Web App  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)  
-A simplistic browser-based chatting application, made using Flask and SocketIO.
-
-The documentation can be found ![**here**](https://github.com/saharshleo/chattingApp/blob/master/docs/Chat%20App%20Doc.pdf)
+A simplistic browser-based chatting application, made using Flask and SocketIO.  
+Forked from [saharshleo/chattingApp](https://github.com/saharshleo/chattingApp)  
+<!-- The documentation can be found ![**here**](https://github.com/saharshleo/chattingApp/blob/master/docs/Chat%20App%20Doc.pdf) -->
 
 ## Current Features:
 * Global chat room
